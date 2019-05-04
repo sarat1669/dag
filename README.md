@@ -1,4 +1,5 @@
-# dag [![Maven Central](https://img.shields.io/maven-central/v/com.factor18.oss/prop-types.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.factor18.oss%22%20AND%20a:%22dag%22)
+# dag [![Maven Central](https://img.shields.io/maven-central/v/com.factor18.oss/dag.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.factor18.oss%22%20AND%20a:%22dag%22)
+
 Directed Acyclic Graph with support for multiple connections between nodes using ports
 
 ### Usage
